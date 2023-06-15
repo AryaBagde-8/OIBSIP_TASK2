@@ -22,9 +22,6 @@ body {
   color:darkslategrey;
   
 }
-.fa-youtube{
-  font-size: 3em;
-}
 
   h1 {
     margin: 0;
@@ -62,6 +59,9 @@ body {
  
   h2 {
     color: #333;
+  }
+.quote {
+    font-style: italic;
   }
   
   ul {
